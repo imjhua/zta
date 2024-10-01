@@ -1,4 +1,4 @@
-import { SafeAreaView, StatusBar, StyleSheet, Text } from 'react-native'
+import { StyleSheet } from 'react-native'
 import { WebView } from 'react-native-webview'
 
 const URI =
